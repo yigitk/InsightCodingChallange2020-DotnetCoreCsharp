@@ -1,0 +1,1 @@
+dotnet Task.Main.dll

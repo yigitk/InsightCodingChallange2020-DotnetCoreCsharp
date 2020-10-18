@@ -1,0 +1,15 @@
+/home/osboxes/Desktop/Project/src/Task.Main/bin/Debug/netcoreapp3.1/Task.Main
+/home/osboxes/Desktop/Project/src/Task.Main/bin/Debug/netcoreapp3.1/input/censustract-00-10.csv
+/home/osboxes/Desktop/Project/src/Task.Main/bin/Debug/netcoreapp3.1/run.sh
+/home/osboxes/Desktop/Project/src/Task.Main/bin/Debug/netcoreapp3.1/Task.Main.deps.json
+/home/osboxes/Desktop/Project/src/Task.Main/bin/Debug/netcoreapp3.1/Task.Main.runtimeconfig.json
+/home/osboxes/Desktop/Project/src/Task.Main/bin/Debug/netcoreapp3.1/Task.Main.runtimeconfig.dev.json
+/home/osboxes/Desktop/Project/src/Task.Main/bin/Debug/netcoreapp3.1/Task.Main.dll
+/home/osboxes/Desktop/Project/src/Task.Main/bin/Debug/netcoreapp3.1/Task.Main.pdb
+/home/osboxes/Desktop/Project/src/Task.Main/obj/Debug/netcoreapp3.1/Task.Main.csprojAssemblyReference.cache
+/home/osboxes/Desktop/Project/src/Task.Main/obj/Debug/netcoreapp3.1/Task.Main.AssemblyInfoInputs.cache
+/home/osboxes/Desktop/Project/src/Task.Main/obj/Debug/netcoreapp3.1/Task.Main.AssemblyInfo.cs
+/home/osboxes/Desktop/Project/src/Task.Main/obj/Debug/netcoreapp3.1/Task.Main.csproj.CoreCompileInputs.cache
+/home/osboxes/Desktop/Project/src/Task.Main/obj/Debug/netcoreapp3.1/Task.Main.dll
+/home/osboxes/Desktop/Project/src/Task.Main/obj/Debug/netcoreapp3.1/Task.Main.pdb
+/home/osboxes/Desktop/Project/src/Task.Main/obj/Debug/netcoreapp3.1/Task.Main.genruntimeconfig.cache
